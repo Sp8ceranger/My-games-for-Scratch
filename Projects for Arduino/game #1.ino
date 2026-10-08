@@ -1,3 +1,7 @@
+/*
+Created by Google Search & me (https://github.com/Sp8ceranger/) 
+Vertion on Scratch: https://scratch.mit.edu/projects/1388211667/
+*/
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
 
@@ -15,7 +19,7 @@ int phaseSaut = 0;
 bool enTrainDeSauter = false;
 unsigned long tempsEtapeSaut = 0; // Pour gérer la durée du saut en l'air
 int score = 0;
-String vertion = "1.4.2";
+String vertion = "1.4.3";
 
 int menu = 0;
 int menu2 = 0;
@@ -58,7 +62,7 @@ void setup() {
   delay(4000);
   lcd.clear();
   lcd.setCursor(0, 0);
-  lcd.print("- 368 lines of code");
+  lcd.print("- 374 lines of code");
   lcd.setCursor(0, 1);
   lcd.print("- 4 day");
   lcd.setCursor(0, 2);
