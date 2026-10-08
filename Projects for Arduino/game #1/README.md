@@ -1,4 +1,5 @@
-## MY GAME OF SCRATCH & Arduino/ESP32
+## MY GAME #1 OF SCRATCH & Arduino/ESP32
+(vertion on Scratch : https://scratch.mit.edu/projects/1388211667)
 
 Hi, if you're reading this, you're probably a maker. Welcome!
 #
